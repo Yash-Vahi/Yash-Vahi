@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-Vahi
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me yashvahi1@gmail.com
 
